@@ -1,3 +1,11 @@
+# Hanli Bazar Software Limited
+## Live site Link-
+
+### Puposes -
+* It can create a project management.
+* It can add the developers for projects by the choice of manager.
+* It can calculate the total developers and  total salary for the projects.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
